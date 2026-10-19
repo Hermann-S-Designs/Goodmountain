@@ -9,7 +9,7 @@ Goodmountain is a condensed, high-contrast and high x-height serif. Inspired by 
 Goodmountain is an ongoing project, please report any bugs you find (or feel free to make suggestions) in the [Issues tab](https://github.com/Hermann-S-Designs/Goodmountain/issues).
 # Character set
 <img width="1920" height="1080" alt="Specimen" src="https://github.com/user-attachments/assets/ed8cd8aa-7bfd-43e2-9b7c-86307d80c043" />
-Goodmountain currently supports the Basic, Western, Central and South Eastern European Latin Character set, as well as Esperanto. It contains 494 glyphs. Other languages such as Greek or Cyrillic are not planned. I would like to give small caps or perhaps even different weights a try. The font has fractions, old style & Roman numerals and case-sensitive punctuation. Please refer to your design software on how to make these work. 
+Goodmountain currently supports the Basic, Western, Central and South Eastern European Latin Character set, as well as Esperanto. It contains over 500 glyphs. Other languages such as Greek or Cyrillic are not planned. I would like to give small caps or perhaps even different weights a try. The font has fractions, old style & Roman numerals and case-sensitive punctuation. Please refer to your design software on how to make these work. 
 <img width="1920" height="1080" alt="Icons" src="https://github.com/user-attachments/assets/5fb6b391-c89d-4677-a92c-e4d6a1c550ec" />
 Goodmountain includes 30 emoji characters inspired by the World of Warcraft. More are planned: If you have a suggestion do so through mail or the Issues tab and I might consider.
 
