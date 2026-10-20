@@ -1,14 +1,15 @@
 # Goodmountain
-Goodmountain is a fantasy-inspired serif designed by Hermann S Designs.<br>
+Goodmountain is a fantasy-inspired serif designed by Hermann S Designs.
 To download the font click <b>[HERE](https://github.com/Hermann-S-Designs/Goodmountain/archive/refs/heads/main.zip)</b>
 
 <img width="1920" height="983" alt="Header" src="https://github.com/user-attachments/assets/2532d5e5-44bc-4f71-8424-d209d7e71d53" />
+
 # About this typeface
 Goodmountain is a condensed, high-contrast and high x-height serif. It is inspired by the Warcraft fantasy RTS & MMO games and named after the Dwarf master printer Gunilla Goodmountain from Terry Pratchett's <i>The Truth</i> (who in part is named after Johannes Gutenberg, who introduced movable type and refined the printing process in Western Europe).
-<br><br>
-It expands a wordmark of only a few letters to a full alphabet with wide-Latin support. As the original wordmark was lettering, every letter was redrawn to make it work in a typeface: not a single curve or node is the same. Finding the balance and rhythm was a bit of a search, but it works for now. Currently Goodmountain consists of a single display-sized style, meant for large sizes. Released in time to keep it around Forever. But there is plenty of room for improvement. 
-<br><br>
+It expands a wordmark of only a few letters to a full alphabet with wide-Latin support. As the original wordmark was lettering, every letter was redrawn to make it work in a typeface: not a single curve or node is the same. Finding the balance and rhythm was a bit of a search, but it works for now. Currently Goodmountain consists of a single display-sized style, meant for large sizes. Released in time to keep it around Forever. But there is plenty of room for improvement.
+
 Goodmountain is an ongoing project, please report any bugs you find (or feel free to make suggestions) in the [Issues tab](https://github.com/Hermann-S-Designs/Goodmountain/issues).
+
 # Character set
 <img width="1920" height="1080" alt="Specimen" src="https://github.com/user-attachments/assets/ed8cd8aa-7bfd-43e2-9b7c-86307d80c043" />
 Goodmountain currently supports the Basic, Western, Central and South Eastern European Latin Character set, as well as Esperanto. It contains over 500 glyphs. Other languages such as Greek or Cyrillic are not planned. I would like to give small caps or perhaps even different weights a try. The font has fractions, old style & Roman numerals and case-sensitive punctuation. Please refer to your design software on how to make these work. 
