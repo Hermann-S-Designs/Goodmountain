@@ -4,7 +4,9 @@ To download the font click <b>[HERE](https://github.com/Hermann-S-Designs/Goodmo
 
 <img width="1920" height="983" alt="Header" src="https://github.com/user-attachments/assets/2532d5e5-44bc-4f71-8424-d209d7e71d53" />
 # About this typeface
-Goodmountain is a condensed, high-contrast and high x-height serif. Inspired by the Warcraft fantasy RTS & MMO games, it expands a wordmark of only a few letters to a full alphabet with wide-Latin support. As the original wordmark was lettering, every letter was redrawn to make it work in a typeface: not a single curve or node is the same. Finding the balance and rhythm was a bit of a search, but it works for now. Currently Goodmountain consists of a single display-sized style, meant for large sizes. Released in time to keep it around Forever. But there is plenty of room for improvement. 
+Goodmountain is a condensed, high-contrast and high x-height serif. It is inspired by the Warcraft fantasy RTS & MMO games and named after the Dwarf master printer Gunilla Goodmountain from Terry Pratchett's <i>The Truth</i> (who in part is named after Johannes Gutenberg, who introduced movable type and refined the printing process in Western Europe).
+<br><br>
+It expands a wordmark of only a few letters to a full alphabet with wide-Latin support. As the original wordmark was lettering, every letter was redrawn to make it work in a typeface: not a single curve or node is the same. Finding the balance and rhythm was a bit of a search, but it works for now. Currently Goodmountain consists of a single display-sized style, meant for large sizes. Released in time to keep it around Forever. But there is plenty of room for improvement. 
 <br><br>
 Goodmountain is an ongoing project, please report any bugs you find (or feel free to make suggestions) in the [Issues tab](https://github.com/Hermann-S-Designs/Goodmountain/issues).
 # Character set
